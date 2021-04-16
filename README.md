@@ -1,4 +1,4 @@
-# World Models  ()
+# World Models
 This repo reproduces the [original implementation](https://github.com/hardmaru/WorldModelsExperiments) of [World Models](https://arxiv.org/abs/1803.10122). This implementation uses TensorFlow 2.2.  
 
 ## Docker
